@@ -1,1 +1,1 @@
-# hackerrank-interview-preperation
+# hackerrank-interview-preparation
